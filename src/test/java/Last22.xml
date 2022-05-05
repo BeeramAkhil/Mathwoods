@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<suite name="MJR_Chennai1100">
+
+
+-<test name="Last22xml">
+
+
+-<classes>
+
+
+-<class name="BHigh.Frame">
+
+
+-<methods>
+
+<include name="havingfun"/>
+
+</methods>
+
+</class>
+
+
+-<class name="BHigh.Datadrivenframework">
+
+
+-<methods>
+
+<include name="havingfun"/>
+
+</methods>
+
+</class>
+
+
+
+
+</classes>
+
+</test>
+
+</suite>
